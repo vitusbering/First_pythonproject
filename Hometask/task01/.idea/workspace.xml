@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f754db87-f96f-49f0-a1c2-4d6bdaeb8802" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h3zlOqvvO6zbfvyFJdKooFsJS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../task04" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../egoroff_examples/dictionary" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../task04" />
+      <recent name="$PROJECT_DIR$/../egoroff_examples" />
+      <recent name="$PROJECT_DIR$/../task02" />
+      <recent name="$PROJECT_DIR$/venv" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task_4_3">
+    <configuration name="Example_len" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="task01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../egoroff_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../egoroff_examples/Example_len.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_egoroff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="task01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../egoroff_examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../egoroff_examples/dictionary/dict_egoroff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_using" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="task01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../egoroff_examples/dictionary" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../egoroff_examples/dictionary/dict_using.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_4_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="task01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../task04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../task04/task_4_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_4_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="task01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../task04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../task04/task_4_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Example_len" />
+      <item itemvalue="Python.dict_egoroff" />
+      <item itemvalue="Python.dict_using" />
+      <item itemvalue="Python.task_4_3" />
+      <item itemvalue="Python.task_4_4" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task_4_3" />
+        <item itemvalue="Python.dict_using" />
+        <item itemvalue="Python.dict_egoroff" />
+        <item itemvalue="Python.Example_len" />
+        <item itemvalue="Python.task_4_4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f754db87-f96f-49f0-a1c2-4d6bdaeb8802" name="Default Changelist" comment="" />
+      <created>1599254715662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599254715662</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="346" y="78" width="732" height="637" key="#Inspections" timestamp="1600861441887">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="346" y="78" width="732" height="637" key="#Inspections/69.27.1297.741@69.27.1297.741" timestamp="1600861441886" />
+    <state x="175" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599681100540">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="175" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/69.27.1297.741@69.27.1297.741" timestamp="1599681100540" />
+    <state x="417" y="198" width="689" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601467132923">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="417" y="198" width="689" height="396" key="#com.intellij.fileTypes.FileTypeChooser/69.27.1297.741@69.27.1297.741" timestamp="1601467132923" />
+    <state x="500" y="104" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1599594373286">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="500" y="104" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/69.27.1297.741@69.27.1297.741" timestamp="1599594373286" />
+    <state x="495" y="140" width="495" height="513" key="FileChooserDialogImpl" timestamp="1599679429865">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="495" y="140" width="495" height="513" key="FileChooserDialogImpl/69.27.1297.741@69.27.1297.741" timestamp="1599679429865" />
+    <state width="1274" height="121" key="GridCell.Tab.0.bottom" timestamp="1601562006867">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="121" key="GridCell.Tab.0.bottom/69.27.1297.741@69.27.1297.741" timestamp="1601562006867" />
+    <state width="1274" height="121" key="GridCell.Tab.0.center" timestamp="1601562006865">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="121" key="GridCell.Tab.0.center/69.27.1297.741@69.27.1297.741" timestamp="1601562006865" />
+    <state width="1274" height="121" key="GridCell.Tab.0.left" timestamp="1601562006865">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="121" key="GridCell.Tab.0.left/69.27.1297.741@69.27.1297.741" timestamp="1601562006865" />
+    <state width="1274" height="121" key="GridCell.Tab.0.right" timestamp="1601562006866">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="121" key="GridCell.Tab.0.right/69.27.1297.741@69.27.1297.741" timestamp="1601562006866" />
+    <state width="1274" height="218" key="GridCell.Tab.1.bottom" timestamp="1601473073873">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="218" key="GridCell.Tab.1.bottom/69.27.1297.741@69.27.1297.741" timestamp="1601473073873" />
+    <state width="1274" height="218" key="GridCell.Tab.1.center" timestamp="1601473073872">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="218" key="GridCell.Tab.1.center/69.27.1297.741@69.27.1297.741" timestamp="1601473073872" />
+    <state width="1274" height="218" key="GridCell.Tab.1.left" timestamp="1601473073872">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="218" key="GridCell.Tab.1.left/69.27.1297.741@69.27.1297.741" timestamp="1601473073872" />
+    <state width="1274" height="218" key="GridCell.Tab.1.right" timestamp="1601473073873">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="1274" height="218" key="GridCell.Tab.1.right/69.27.1297.741@69.27.1297.741" timestamp="1601473073873" />
+    <state x="211" y="27" key="SettingsEditor" timestamp="1599682861296">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="211" y="27" key="SettingsEditor/69.27.1297.741@69.27.1297.741" timestamp="1599682861296" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599511517236">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/69.27.1297.741@69.27.1297.741" timestamp="1599511517236" />
+    <state x="380" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1601385886431">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="380" y="89" width="672" height="678" key="search.everywhere.popup/69.27.1297.741@69.27.1297.741" timestamp="1601385886431" />
+    <state x="442" y="288" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599684709187">
+      <screen x="69" y="27" width="1297" height="741" />
+    </state>
+    <state x="442" y="288" width="540" height="216" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/69.27.1297.741@69.27.1297.741" timestamp="1599684709187" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../egoroff_examples/logic type_bool.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../egoroff_examples/dictionary/dict_using.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
